@@ -70,6 +70,7 @@ border: 10%;}
     background-color: rgb(26,14,60);
     color: white;
     text-align: center;
+    align-items: center center;
 }
 #nuestros-programas .container{
     padding: 10px 12px;

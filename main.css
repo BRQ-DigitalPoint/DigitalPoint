@@ -136,7 +136,16 @@ border: 10%;}
         rgba(0,0,0,0.70)
     )
     ,url("assets/Permisos.jpg");
-
+    
+}
+.carta:nth-child(6){
+    background-image: linear-gradient(
+        0deg,
+        rgba(0,0,0,0.70),
+        rgba(0,0,0,0.70)
+    )
+    ,url("assets/SafeScore.png");
+    
 }
 @media (min-width: 850px){
     #nuestros-programas .programas{
@@ -210,4 +219,12 @@ border: 10%;}
             rgba(0,0,0,0.70)
         )
         ,url("assets/Permisos.jpg"); 
+}
+.carta:nth-child(5){
+        background-image: linear-gradient(
+            0deg,
+            rgba(0,0,0,0.70),
+            rgba(0,0,0,0.70)
+        )
+        ,url("assets/SafeScore.png"); 
 }}
